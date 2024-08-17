@@ -1,2 +1,2 @@
-# LemOnSpeak.Server
+# LemOnSpeak
 A platform for integrating language learning.
